@@ -5,7 +5,7 @@
   "license": "MIT",
   "version": "1.0.0",
   "autoupdate": true,
-  "checkUpdateUrl": "https://raw.githubusercontent.com/life-rs/life-KingKappa-/main/updater.json",
+  "checkUpdateUrl": "https://raw.githubusercontent.com/life-rs/life-KingKappa/main/updater.json",
   "src":{
     "src/modloader.js": "CacheModLoad",
     "src/categories.js": "CacheModLoad"
